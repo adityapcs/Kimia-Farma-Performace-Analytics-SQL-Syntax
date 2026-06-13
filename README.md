@@ -16,7 +16,7 @@ using BigQuery, SQL, and Looker Studio.
 - Looker Studio
 
 ## Dashboard
-[View Dashboard]([link Looker Studio kamu](https://datastudio.google.com/u/0/reporting/2e83ce1f-770c-4933-9eed-30319b394449/page/LUOjE))
+([Dashboard Link](https://datastudio.google.com/u/0/reporting/2e83ce1f-770c-4933-9eed-30319b394449/page/LUOjE))
 
 ## Key Metrics
 - Total Transactions: 672,458
